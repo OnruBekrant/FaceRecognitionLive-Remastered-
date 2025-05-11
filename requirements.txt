@@ -1,0 +1,6 @@
+Flask
+flask_sqlalchemy
+python-dotenv
+face_recognition
+opencv-python
+psycopg2-binary
